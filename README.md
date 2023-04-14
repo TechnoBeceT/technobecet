@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TechnoBeceT&show_icons=true&theme=dark">
+
+<img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoBeceT&hide_title=false&layout=compact&theme=dark&count_private=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoBeceT&include_all_commits=true&hide_border=false&theme=dark"/>
+
+![](https://activity-graph.herokuapp.com/graph?username=TechnoBeceT&theme=react-dark&area=true)
 
 <!--
 **TechnoBeceT/technobecet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
